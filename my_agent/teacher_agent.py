@@ -13,7 +13,7 @@ gemini_agent = Agent(
 )
 
 groq_agent = Agent(
-    name="nouman",                                # Agent identifier
+    name="Attique",                                # Agent identifier
     instructions="You are a computer teacher.",   # Instruction for the AI's behavior
     model=GROQ_MODEL                                   # The AI model it will use
 )
